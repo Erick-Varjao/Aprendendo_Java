@@ -1,4 +1,4 @@
-package Estrutura_repetitiva;
+package estrutura_repetitiva;
 
 import java.util.Locale;
 import java.util.Scanner;
